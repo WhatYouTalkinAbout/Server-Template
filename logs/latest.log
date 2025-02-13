@@ -1,0 +1,141 @@
+[20:31:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-6995f415-b464)...
+[20:31:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[20:31:24] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[20:31:24] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[20:31:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:6995f415:b464
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/464/downloads/velocity-3.4.0-SNAPSHOT-464.jar
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[20:31:25] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:31:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.7 by lax1dude, ayunami2000
+[20:31:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.2.1 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[20:31:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.2.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+[20:31:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viarewind 4.0.5 by FlorianMichael/EnZaXD, Gerrygames, creeper123123321
+[20:31:25] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 5 plugins
+[20:31:25] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[20:31:25] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[20:31:25] [EaglercraftXVelocity - Task Executor #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
+[20:31:25] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[20:31:25] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[20:31:25] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
+[20:31:25] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/codespaces-blank/plugins/eaglerxvelocity/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+[20:31:26] [Via-Mappingloader-0/INFO] [viaversion]: Loading block connection mappings ...
+[20:31:26] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[20:31:26] [EaglercraftXVelocity - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[20:31:26] [EaglercraftXVelocity - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[20:31:26] [EaglercraftXVelocity - Task Executor #0/INFO] [viabackwards]: Loading translations...
+[20:31:26] [EaglercraftXVelocity - Task Executor #0/INFO] [viabackwards]: Registering protocols...
+[20:31:27] [EaglercraftXVelocity - Task Executor #0/INFO] [viarewind]: Registering protocols...
+[20:31:27] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[20:31:27] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 1.21.4 (769)
+[20:31:27] [ViaVersion - Task Executor #2/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
+[20:31:27] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[20:31:27] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (3.81s)!
+[20:46:20] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58304]: Connected via websocket
+[20:46:20] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58304]: Origin header is https://html.onlineviewer.net
+[20:46:21] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:58304) has connected
+[20:46:21] [Netty epoll Worker #1/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:58304): unable to connect to server lobby
+io.netty.channel.AbstractChannel$AnnotatedConnectException: finishConnect(..) failed: Connection refused: /127.0.0.1:30066
+Caused by: java.net.ConnectException: finishConnect(..) failed: Connection refused
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:166) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.unix.Socket.finishConnect(Socket.java:359) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.doFinishConnect(AbstractEpollChannel.java:715) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.finishConnect(AbstractEpollChannel.java:692) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.epollOutReady(AbstractEpollChannel.java:567) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:491) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-464.jar:3.4.0-SNAPSHOT (git-6995f415-b464)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:46:21] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:58304) has disconnected: Unable to connect you to lobby. Please try again later.
+[20:51:42] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47994]: Connected via websocket
+[20:51:42] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:47994]: Origin header is https://html.onlineviewer.net
+[20:51:43] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:47994) has connected
+[20:51:43] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has connected
+[20:51:43] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has disconnected
+[20:51:43] [Netty epoll Worker #2/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:47994): disconnected while connecting to lobby: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[20:51:43] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:47994) has disconnected: Unable to connect to lobby: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[20:52:30] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46138]: Connected via websocket
+[20:52:30] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46138]: Origin header is https://html.onlineviewer.net
+[20:52:30] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:46138) has connected
+[20:52:30] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has connected
+[20:52:30] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has disconnected
+[20:52:30] [Netty epoll Worker #2/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:46138): disconnected while connecting to lobby: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[20:52:30] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:46138) has disconnected: Unable to connect to lobby: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[20:54:05] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:40768]: Connected via websocket
+[20:54:05] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:40768]: Origin header is https://html.onlineviewer.net
+[20:54:06] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:40768) has connected
+[20:54:06] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has connected
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[20:54:10] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[20:54:11] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[21:05:14] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:40768): kicked from server lobby: Server closed
+[21:05:14] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has disconnected
+[21:05:14] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:40768) has disconnected: You were kicked from lobby: Server closed
+[21:25:37] [Netty epoll Worker #3/WARN] [eaglerxvelocity]: Server icon is not a file: /workspaces/codespaces-blank/server-icon.png
+[21:25:39] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58794]: Connected via websocket
+[21:25:39] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58794]: Origin header is null
+[21:25:40] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] TheWanderer (/[0:0:0:0:0:0:0:1]:58794) has connected
+[21:25:40] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] TheWanderer -> lobby has connected
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[21:25:42] [Netty epoll Worker #0/WARN] [viaversion]: (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[21:26:29] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] TheWanderer (/[0:0:0:0:0:0:0:1]:58794) has disconnected
+[21:26:29] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] TheWanderer -> lobby has disconnected
+[21:27:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:57382]: Connected via websocket
+[21:27:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:57382]: Origin header is https://html.onlineviewer.net
+[21:27:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] WontTakeYourBS (/[0:0:0:0:0:0:0:1]:57382) has connected
+[21:27:25] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] WontTakeYourBS -> lobby has connected
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[21:27:26] [Netty epoll Worker #1/WARN] [viaversion]: (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[21:27:29] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:59072]: Connected via websocket
+[21:27:29] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:59072]: Origin header is null
+[21:27:29] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] TheWanderer (/[0:0:0:0:0:0:0:1]:59072) has connected
+[21:27:29] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] TheWanderer -> lobby has connected
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[21:27:29] [Netty epoll Worker #2/WARN] [viaversion]: (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready

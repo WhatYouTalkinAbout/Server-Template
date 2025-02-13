@@ -1,0 +1,149 @@
+[21:14:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:14:19] [ServerMain/INFO]: Loaded 7 recipes
+[21:14:20] [Server thread/INFO]: Starting minecraft server version 1.20
+[21:14:20] [Server thread/INFO]: Loading properties
+[21:14:20] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[21:14:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:14:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:14:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[21:14:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:14:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:14:21] [Server thread/INFO]: Generating keypair
+[21:14:21] [Server thread/INFO]: Starting Minecraft server on *:30066
+[21:14:21] [Server thread/INFO]: Using epoll channel type
+[21:14:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:14:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:14:22] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
+[21:14:22] [Server thread/INFO]: [CrystamaeHistoria] Loading server plugin CrystamaeHistoria vDEV - 81 (git 0c0efa95)
+[21:14:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:14:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:14:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:14:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:14:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[21:14:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:14:22] [Server thread/INFO]: Preparing level "world"
+[21:14:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:14:24] [Server thread/INFO]: Time elapsed: 537 ms
+[21:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:14:24] [Server thread/INFO]: Time elapsed: 162 ms
+[21:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:14:24] [Server thread/INFO]: Time elapsed: 126 ms
+[21:14:24] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
+[21:14:24] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[21:14:24] [Server thread/INFO]: [Slimefun] Creating directories...
+[21:14:24] [Server thread/INFO]: [Slimefun] Loading language files...
+[21:14:24] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:14:26] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[21:14:26] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[21:14:26] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[21:14:26] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[21:14:26] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[21:14:26] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[21:14:27] [Server thread/INFO]: [Slimefun] Loading Tags...
+[21:14:27] [Server thread/INFO]: [Slimefun] Loading items...
+[21:14:29] [Server thread/INFO]: [Slimefun] Loading researches...
+[21:14:29] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[21:14:29] [Server thread/INFO]: [Slimefun] Registering listeners...
+[21:14:29] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[21:14:29] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 5.1s
+[21:14:29] [Server thread/INFO]: [CrystamaeHistoria] Enabling CrystamaeHistoria vDEV - 81 (git 0c0efa95)
+[21:14:29] [Server thread/INFO]: [CrystamaeHistoria] ########################################
+[21:14:29] [Server thread/INFO]: [CrystamaeHistoria]     Crystamae Historia - By Sefiraat    
+[21:14:29] [Server thread/INFO]: [CrystamaeHistoria] ########################################
+[21:14:31] [Server thread/INFO]: [CrystamaeHistoria] Loaded: 995 unique (block) stories.
+[21:14:33] [Server thread/INFO]: Running delayed init tasks
+[21:14:33] [Craft Scheduler Thread - 2 - CrystamaeHistoria/INFO]: [CrystamaeHistoria] CrystamaeHistoria is already up to date!
+[21:14:33] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
+[21:14:33] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
+[21:14:33] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
+[21:14:33] [Craft Scheduler Thread - 3 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
+[21:14:34] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[21:14:34] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
+[21:14:34] [Server thread/INFO]: 
+[21:14:34] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
+[21:14:34] [Server thread/INFO]: 
+[21:14:34] [Server thread/INFO]: Successfully loaded 829 Items and 258 Researches
+[21:14:34] [Server thread/INFO]: ( 555 Items from Slimefun, 274 Items from 1 Addons )
+[21:14:34] [Server thread/INFO]: 
+[21:14:34] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[21:14:34] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[21:14:34] [Server thread/INFO]: 
+[21:14:34] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
+[21:14:34] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
+[21:14:34] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
+[21:14:34] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
+[21:14:34] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
+[21:14:34] [Server thread/INFO]: 
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[21:14:34] [Server thread/INFO]: [Slimefun] This may take a long time...
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 8ms)
+[21:14:34] [Server thread/INFO]: [Slimefun] Loaded a total of 5 Blocks for World "world"
+[21:14:34] [Server thread/INFO]: [Slimefun] Avg: 1.6ms/Block
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[21:14:34] [Server thread/INFO]: [Slimefun] This may take a long time...
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[21:14:34] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[21:14:34] [Server thread/INFO]: [Slimefun] This may take a long time...
+[21:14:34] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 1ms)
+[21:14:34] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[21:14:34] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[21:14:34] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[21:14:34] [Server thread/INFO]: [CrystamaeHistoria] Crystamae saving data.
+[21:14:35] [Server thread/INFO]: Done (14.866s)! For help, type "help"
+[21:14:35] [Server thread/INFO]: Timings Reset
+[21:16:13] [Craft Scheduler Thread - 5 - Slimefun/INFO]: [Slimefun] Auto-saving block data... (Next auto-save: 10m)
+[21:16:13] [Craft Scheduler Thread - 5 - Slimefun/INFO]: [Slimefun] Saving block data for world "world" (5 change(s) queued)
+[21:24:33] [Server thread/INFO]: [CrystamaeHistoria] Crystamae saving data.
+[21:25:40] [User Authenticator #0/INFO]: UUID of player TheWanderer is cde41c81-35cc-3b29-b928-6041fdb5e0e8
+[21:25:42] [Server thread/INFO]: TheWanderer joined the game
+[21:25:42] [Server thread/INFO]: TheWanderer[/[0:0:0:0:0:0:0:1]:40066] logged in with entity id 245 at ([world]3.5, 71.0, -34.5)
+[21:25:53] [Async Chat Thread - #0/INFO]: [Not Secure] <TheWanderer> dang
+[21:25:58] [Async Chat Thread - #0/INFO]: [Not Secure] <TheWanderer> welp
+[21:26:04] [Async Chat Thread - #1/INFO]: [Not Secure] <TheWanderer> u on console bs?
+[21:26:29] [Server thread/INFO]: TheWanderer lost connection: Disconnected
+[21:26:29] [Server thread/INFO]: TheWanderer left the game
+[21:27:25] [User Authenticator #1/INFO]: UUID of player WontTakeYourBS is 0c110143-0b11-364c-afc1-99180e799796
+[21:27:26] [Server thread/INFO]: WontTakeYourBS joined the game
+[21:27:26] [Server thread/INFO]: WontTakeYourBS[/[0:0:0:0:0:0:0:1]:58970] logged in with entity id 373 at ([world]-11.459899510649286, 63.0, -57.42513875157607)
+[21:27:29] [User Authenticator #1/INFO]: UUID of player TheWanderer is cde41c81-35cc-3b29-b928-6041fdb5e0e8
+[21:27:29] [Server thread/INFO]: TheWanderer joined the game
+[21:27:29] [Server thread/INFO]: TheWanderer[/[0:0:0:0:0:0:0:1]:60270] logged in with entity id 383 at ([world]-14.435652495749624, 63.0, -58.386053102392445)
+[21:27:33] [Async Chat Thread - #2/INFO]: [Not Secure] <TheWanderer> hello
+[21:27:36] [Async Chat Thread - #2/INFO]: [Not Secure] <WontTakeYourBS> hey
+[21:27:44] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> can i get console access??
+[21:27:48] [Async Chat Thread - #2/INFO]: [Not Secure] <WontTakeYourBS> so yeah, very simple private server
+[21:27:51] [Async Chat Thread - #2/INFO]: [Not Secure] <TheWanderer> ya
+[21:27:53] [Async Chat Thread - #3/INFO]: [Not Secure] <WontTakeYourBS> Yeah one moment
+[21:28:00] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> is it 24/7?
+[21:28:18] [Server thread/INFO]: You whisper to WontTakeYourBS: no it is not
+[21:28:18] [Server thread/INFO]: You whisper to TheWanderer: no it is not
+[21:28:23] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> mk
+[21:28:27] [Server thread/INFO]: Made TheWanderer a server operator
+[21:28:32] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> does it charge u?
+[21:28:37] [Async Chat Thread - #3/INFO]: [Not Secure] <WontTakeYourBS> No
+[21:28:38] [Server thread/INFO]: TheWanderer issued server command: /gamemode c
+[21:28:41] [Server thread/INFO]: TheWanderer issued server command: /gamemode
+[21:28:45] [Async Chat Thread - #2/INFO]: [Not Secure] <TheWanderer> mk
+[21:28:45] [Async Chat Thread - #2/INFO]: [Not Secure] <WontTakeYourBS> It free
+[21:28:48] [Async Chat Thread - #2/INFO]: [Not Secure] <TheWanderer> also
+[21:28:50] [Async Chat Thread - #2/INFO]: [Not Secure] <TheWanderer> uhh
+[21:28:58] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> cant do /gamemode
+[21:29:02] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> and cant drop items
+[21:29:06] [Async Chat Thread - #4/INFO]: [Not Secure] <WontTakeYourBS> ???
+[21:29:07] [Async Chat Thread - #4/INFO]: [Not Secure] <TheWanderer> nvm
+[21:29:10] [Async Chat Thread - #4/INFO]: [Not Secure] <TheWanderer> it dropped
+[21:29:20] [Server thread/INFO]: TheWanderer issued server command: /sf cheat
+[21:29:31] [Async Chat Thread - #4/INFO]: [Not Secure] <TheWanderer> its on github?
+[21:29:37] [Async Chat Thread - #4/INFO]: [Not Secure] <WontTakeYourBS> Yep
+[21:29:44] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> mk lemme make an account
+[21:30:02] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> do i need an invite link or smt?
+[21:30:10] [Async Chat Thread - #5/INFO]: [Not Secure] <WontTakeYourBS> Nope
+[21:30:14] [Async Chat Thread - #3/INFO]: [Not Secure] <WontTakeYourBS> Github.com
+[21:30:28] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> mk im on it rn, might be slow cause of my proxy
+[21:30:57] [Async Chat Thread - #5/INFO]: [Not Secure] <WontTakeYourBS> bruh it's educational, your school will allow it
+[21:31:04] [Async Chat Thread - #3/INFO]: [Not Secure] <WontTakeYourBS> Mine does
+[21:31:15] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> mine dont
+[21:31:16] [Async Chat Thread - #3/INFO]: [Not Secure] <TheWanderer> lol
